@@ -10,3 +10,4 @@
     - Mensagem de entrada: Miguel
     - Resultado encriptado pela cifra de cesar: Pljxho
 
+#### É um ótimo algoritimo para começar os estudos de criptografia pois é bem simples de entender, mas não devemos utiliza-lo em hipotese alguma pois é muito simples de obter a mensagem original.

@@ -24,3 +24,5 @@
 - Faça isso para as proximas letras e terá o resultado: Ozejxt
 
 #### É necessário deslocar a letra da CHAVE (linha) até chegarmos na posição da letra da mensagem (coluna) para obter a letra que encriptada.
+
+#### Assim como a cifra de cesar, não devemos usar a cifra de vigenere como algoritimo de criptografia pois é um tipo de criptografia bem simples de ser revertido a mensagem original

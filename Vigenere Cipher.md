@@ -23,8 +23,4 @@
 - O resultado das combinações das letras resulta na letra O
 - Faça isso para as proximas letras e terá o resultado: Ozejxt
 
-
-
-    
-
-#### É um ótimo algoritimo para começar os estudos de criptografia pois é bem simples de entender, mas não devemos utiliza-lo em hipotese alguma pois é muito simples de obter a mensagem original.
+#### É necessário deslocar a letra da CHAVE (linha) até chegarmos na posição da letra da mensagem (coluna) para obter a letra que encriptada.

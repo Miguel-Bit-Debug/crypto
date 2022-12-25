@@ -19,3 +19,4 @@
         - Algoritimo de hash usado: SHA-256
         - A saída para este texto de entrada usando SHA-256 sempre será está: 5ef68465886fa04d3e0bbe86b59d964dd98e5775e95717df978d8bedee6ff16c
 
+#### Hash são muito utilizados para garantir integridade de uma informação, uma informação é enviada pela rede junto de seu hash, se houver alteração na informação, podemos pegar o hash da informação alterada e comparar com o hash que foi enviado, se forem diferentes  significa que de fato houve uma quebra de integridade.

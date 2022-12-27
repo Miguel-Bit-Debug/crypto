@@ -22,7 +22,9 @@ joao  - 11 - 3 - 33 - 264
 
     Numero publico: 11
 
-    Agora Miguel e Monica devem escolher um numero aleatorio onde não será publico, cada um vai ter seu numero privado que não sera compartilhado na rede e Mateus não vai ter acesso.
+    Agora Miguel e Monica devem escolher um numero aleatorio onde não será publico,
+    cada um vai ter seu numero privado que não sera compartilhado na 
+    rede e Mateus não vai ter acesso.
 
     Numero privado Miguel: 18
     Numero privado Monica: 3

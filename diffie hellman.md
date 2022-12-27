@@ -16,9 +16,6 @@
     mas os numeros (as chaves) que foram multiplicados para chegar no resultado 
     devem ser secretos.
 
-maria - 11 - 8 - 88 - 264
-joao  - 11 - 3 - 33 - 264
-
 #### Calculo do diffie hellman
     Vamos imaginar que a Miguel quer se comunicar com a Monica em um meio de 
     comunicação inseguro onde a Mateus pode interceptar a mensagem.

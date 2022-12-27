@@ -18,7 +18,7 @@
 
 #### Calculo do diffie hellman
     Vamos imaginar que a Miguel quer se comunicar com a Monica em um meio de 
-    comunicação inseguro onde a Mateus pode interceptar a mensagem.
+    comunicação inseguro onde Mateus pode interceptar a mensagem.
 
     Miguel e Monica devem combinar PUBLICAMENTE em um numero para os dois, 
     se tratando de um numero publico Mateus terá acesso.

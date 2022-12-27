@@ -54,4 +54,4 @@
     198 (resultado do calculo) |     198 - 33 (resultados)  |     33 (resultado do calculo)
     594 (chave secreta)        |     (sem chave secreta)    |     594 (chave secreta)
 
-#### Nesse exemplo acima Mateus até pode pegar os resultados publicos e testar todas as combinações de possiveis para chegar naqueles resultados ja que não são numeros tão grandes, mas quando pensamos em sistemas devemos utilizar numeros na casa das dezenas ou até mesmo centenas. Isso torna inviavel o calculo reverso para tentar obter as chaves.
+#### Nesse exemplo acima Mateus até pode pegar os resultados publicos e testar todas as combinações possiveis para chegar naqueles resultados ja que não são numeros tão grandes, mas quando pensamos em sistemas devemos utilizar numeros na casa das dezenas ou até mesmo centenas. Isso torna inviavel o calculo reverso para tentar obter as chaves.

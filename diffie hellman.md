@@ -10,7 +10,11 @@
     (-1) x (-20)
     (-5) x (-4)
 
-    todos as possibilidades acima resultam em 20, e foram apenas alguns exemplos usados para ilustrar que não é tão simples saber qual calculo foi usado para chegar naquele resultado. O resultado pode ser compartilhado mas os numeros (as chaves) que foram multiplicados para chegar no resultado devem ser secretos.
+    todos as possibilidades acima resultam em 20, e foram apenas alguns 
+    exemplos usados para ilustrar que não é tão simples saber qual calculo 
+    foi usado para chegar naquele resultado. O resultado pode ser compartilhado 
+    mas os numeros (as chaves) que foram multiplicados para chegar no resultado 
+    devem ser secretos.
 
 maria - 11 - 8 - 88 - 264
 joao  - 11 - 3 - 33 - 264

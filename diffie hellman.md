@@ -16,6 +16,8 @@
     mas os numeros (as chaves) que foram multiplicados para chegar no resultado 
     devem ser secretos.
 
+#### O protocolo Diffie Hellman funcionara com numeros naturais com modulo de numero primo é importante que o modulo seja um numero primo
+
 #### Calculo do diffie hellman
     Vamos imaginar que a Miguel quer se comunicar com a Monica em um meio de 
     comunicação inseguro onde Mateus pode interceptar a mensagem.
@@ -55,3 +57,5 @@
     594 (chave secreta)        |     (sem chave secreta)    |     594 (chave secreta)
 
 #### Nesse exemplo acima Mateus até pode pegar os resultados publicos e testar todas as combinações possiveis para chegar naqueles resultados ja que não são numeros tão grandes, mas quando pensamos em sistemas devemos utilizar numeros na casa das dezenas ou até mesmo centenas. Isso torna inviavel o calculo reverso para tentar obter as chaves.
+
+

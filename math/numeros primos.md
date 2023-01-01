@@ -25,3 +25,4 @@
     5   | 5
     1
 
+#### Todos os numeros existentes tem apenas uma fatoração de numeros primos, podemos pensar que essa unica fatoração é uma chave secreta. O problema é, a decomposição por numeros primos é um processo dificil

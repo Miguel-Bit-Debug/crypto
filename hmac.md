@@ -7,5 +7,7 @@
     Chave secreta: ABC123
     Mensagem: Envie 100 reais para o Miguel
     Código de autenticação da mensagem: 2143uiuhuhu4584fef== (somente um exemplo)
-    A mensagem será enviada junto com o código de autenticação, quem receber terá que fazer o mesmo calculo para chegar no mesmo código de autenticação enviado, se esse código for diferente significa que houve quebra de integridade, se for igual significa que a integridade se manteve.
+    A mensagem será enviada junto com o código de autenticação, quem receber terá que fazer o mesmo 
+    calculo para chegar no mesmo código de autenticação enviado, se esse código for diferente significa 
+    que houve quebra de integridade, se for igual significa que a integridade se manteve.
     

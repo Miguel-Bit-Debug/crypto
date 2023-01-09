@@ -35,3 +35,17 @@
            10              1                         Sim
 
     φ(11) = 10
+
+#### Uma curiosidade que podemos observar é que quando N é um numero primo o (phi) φ(N) sempre sera N - 1
+    Exemplo: Vamos usar usar os seguintes numeros primos [ 2, 3, 5, 11, 13, 47, 53, 257 ]
+
+    Temos os seguintes resultados:
+    φ(2) = 1
+    φ(3) = 2
+    φ(5) = 4
+    φ(11) = 10
+    φ(13) = 12
+    φ(47) = 46
+    φ(53) = 52
+    φ(257) = 256
+    

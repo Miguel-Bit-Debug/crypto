@@ -33,4 +33,20 @@
 
     TEXT_PLAIN = (TEXTO_CRIFRADO ^ D) mod N
 
+#### Exemplo pratico de utilização do RSA
+    Defina P e Q
+
+    P = 17
+    Q = 11
+    N = P * Q
+    Z = (P - 1) * (Q - 1)
+
+    N = 17 * 11 = 187
+    Z = 16 * 10 = 160
+
+    Calcule D (D deve ser primo em relação a Z)
+    D = 7
+
+    Calcule E
+    (E * D) mod z = 1
 

@@ -61,4 +61,15 @@
     CIPHER = (TEXTO ORIGINAL ^ E) mod N 
     TEXT_PLAIN = (CIPHER ^ D) mod N 
 
-    
+
+    ENCRYPT:
+    TEXT = 4
+    CIPHER = (4 ^ 23) mod 39
+    CIPHER = 70.368.744.177.664 mod 39
+    CIPHER = 64
+
+    DECRYPT:
+    TEXT_INPUT = 64
+    TEXT_PLAIN = (64 ^ 7) mod 39
+    TEXT_PLAIN = 4.398.046.511.104 mod 39
+    TEXT_PLAIN = 4 

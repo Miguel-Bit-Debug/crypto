@@ -52,11 +52,13 @@
 
     E = 1 => (1 * 7) mod 160 = 7
     E = 2 => (2 * 7) mod 160 = 14
-    E = 3 => (3 * 7) mod 160 = 21
     E = 23 => (23 * 7) mod 160 = 1
     E = 183 => (183 * 7) mod 160 = 1
-    E = 343 => (343 * 7) mod 160 = 1
-    E = 503 => (503 * 7) mod 160 = 1
 
     Vamos escolher o 23
     E = 23
+
+    CIPHER = (TEXTO ORIGINAL ^ E) mod N 
+    TEXT_PLAIN = (CIPHER ^ D) mod N 
+
+    
